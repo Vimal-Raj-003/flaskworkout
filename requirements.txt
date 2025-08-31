@@ -1,0 +1,8 @@
+Flask==3.0.3
+flask-cors==4.0.1
+python-dotenv==1.0.1
+requests==2.32.3
+SQLAlchemy==2.0.32
+pydantic==2.7.4
+openai==1.45.0
+gunicorn==22.0.0
